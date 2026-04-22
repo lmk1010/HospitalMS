@@ -1,0 +1,14 @@
+.idea/
+.run/
+frontend-element-backup-20260419/
+
+.DS_Store
+*.log
+
+frontend/node_modules/
+frontend/dist/
+frontend/.turbo/
+frontend/coverage/
+
+backend/**/target/
+backend/.flattened-pom.xml
